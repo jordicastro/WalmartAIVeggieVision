@@ -18,7 +18,7 @@ This project aims at developing a computer vision-based object classifier placed
 - `models/`: Trained model files
 - `app/`: Gradio and Streamlit applications
 - `docs/`: Project documentation
-- `notebooks/`: Jupyter notebooks for exploration
+- `testnotebooks/`: Jupyter notebooks for exploration
 
 ## Usage
 [How to use the system]
