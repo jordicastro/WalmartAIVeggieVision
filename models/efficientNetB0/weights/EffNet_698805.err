@@ -1,0 +1,67 @@
+/scrfs/storage/dgnystro/home/walmart_project/myenv/lib/python3.12/site-packages/torch/utils/data/dataloader.py:624: UserWarning: This DataLoader will create 2 worker processes in total. Our suggested max number of worker in current system is 1, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-2.0836544..2.5702832].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-2.117904..2.64].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-2.1007793..2.6051416].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-3.6923668..3.364702].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-2.0322802..2.5877128].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-2.117904..2.5877128].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-2.0836544..2.5877128].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-2.0494049..2.622571].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-2.0665298..2.6051416].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-4.4726768..3.9826002].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-2.117904..2.622571].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-2.0836544..2.535425].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-2.0665298..2.5877128].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-2.1007793..2.64].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-4.3188972..4.9307137].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-2.1007793..2.622571].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-2.117904..2.6051416].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-4.122023..3.3716505].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-1.9980307..2.6051416].
+Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-2.0836544..2.5005665].
+/scrfs/storage/dgnystro/home/walmart_project/myenv/lib/python3.12/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/scrfs/storage/dgnystro/home/walmart_project/myenv/lib/python3.12/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=EfficientNet_B0_Weights.IMAGENET1K_V1`. You can also use `weights=EfficientNet_B0_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:07<02:14, 67.29s/it]100%|██████████| 3/3 [01:21<00:00, 22.65s/it]100%|██████████| 3/3 [01:21<00:00, 27.12s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:21<00:00, 21.12s/it]100%|██████████| 1/1 [00:21<00:00, 21.14s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:03<02:06, 63.03s/it] 67%|██████▋   | 2/3 [01:03<00:26, 26.01s/it]100%|██████████| 3/3 [01:17<00:00, 20.73s/it]100%|██████████| 3/3 [01:17<00:00, 25.87s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:20<00:00, 20.22s/it]100%|██████████| 1/1 [00:20<00:00, 20.24s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [00:59<01:59, 59.80s/it] 67%|██████▋   | 2/3 [01:07<00:29, 29.17s/it]100%|██████████| 3/3 [01:17<00:00, 20.51s/it]100%|██████████| 3/3 [01:17<00:00, 25.92s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:22<00:00, 22.88s/it]100%|██████████| 1/1 [00:22<00:00, 22.90s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:04<02:09, 64.93s/it]100%|██████████| 3/3 [01:20<00:00, 22.67s/it]100%|██████████| 3/3 [01:20<00:00, 26.90s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:21<00:00, 21.70s/it]100%|██████████| 1/1 [00:21<00:00, 21.73s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:02<02:05, 62.82s/it]100%|██████████| 3/3 [01:14<00:00, 20.64s/it]100%|██████████| 3/3 [01:14<00:00, 24.86s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:22<00:00, 22.80s/it]100%|██████████| 1/1 [00:22<00:00, 22.82s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:02<02:05, 62.80s/it] 67%|██████▋   | 2/3 [01:02<00:25, 25.92s/it]100%|██████████| 3/3 [01:16<00:00, 20.22s/it]100%|██████████| 3/3 [01:16<00:00, 25.45s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:19<00:00, 19.60s/it]100%|██████████| 1/1 [00:19<00:00, 19.62s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:02<02:04, 62.37s/it]100%|██████████| 3/3 [01:15<00:00, 21.03s/it]100%|██████████| 3/3 [01:15<00:00, 25.18s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:20<00:00, 20.30s/it]100%|██████████| 1/1 [00:20<00:00, 20.32s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:03<02:06, 63.24s/it] 67%|██████▋   | 2/3 [01:03<00:26, 26.21s/it]100%|██████████| 3/3 [01:17<00:00, 20.47s/it]100%|██████████| 3/3 [01:17<00:00, 25.74s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:19<00:00, 19.82s/it]100%|██████████| 1/1 [00:19<00:00, 19.84s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:03<02:06, 63.25s/it] 67%|██████▋   | 2/3 [01:10<00:30, 30.56s/it]100%|██████████| 3/3 [01:20<00:00, 20.91s/it]100%|██████████| 3/3 [01:20<00:00, 26.80s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:20<00:00, 20.79s/it]100%|██████████| 1/1 [00:20<00:00, 20.81s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:01<02:03, 61.51s/it]100%|██████████| 3/3 [01:14<00:00, 20.67s/it]100%|██████████| 3/3 [01:14<00:00, 24.77s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:21<00:00, 21.75s/it]100%|██████████| 1/1 [00:21<00:00, 21.78s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:06<02:12, 66.24s/it]100%|██████████| 3/3 [01:18<00:00, 21.69s/it]100%|██████████| 3/3 [01:18<00:00, 26.15s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:21<00:00, 21.20s/it]100%|██████████| 1/1 [00:21<00:00, 21.22s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:02<02:05, 62.53s/it]100%|██████████| 3/3 [01:15<00:00, 21.15s/it]100%|██████████| 3/3 [01:15<00:00, 25.30s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:23<00:00, 23.90s/it]100%|██████████| 1/1 [00:23<00:00, 23.93s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:01<02:02, 61.14s/it]100%|██████████| 3/3 [01:15<00:00, 21.07s/it]100%|██████████| 3/3 [01:15<00:00, 25.09s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:22<00:00, 22.60s/it]100%|██████████| 1/1 [00:22<00:00, 22.63s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:03<02:06, 63.16s/it]100%|██████████| 3/3 [01:16<00:00, 21.41s/it]100%|██████████| 3/3 [01:16<00:00, 25.60s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:22<00:00, 22.21s/it]100%|██████████| 1/1 [00:22<00:00, 22.24s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:03<02:07, 63.59s/it]100%|██████████| 3/3 [01:19<00:00, 22.37s/it]100%|██████████| 3/3 [01:19<00:00, 26.50s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:22<00:00, 22.63s/it]100%|██████████| 1/1 [00:22<00:00, 22.65s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [00:56<01:52, 56.04s/it] 67%|██████▋   | 2/3 [00:58<00:24, 24.68s/it]100%|██████████| 3/3 [01:13<00:00, 20.04s/it]100%|██████████| 3/3 [01:13<00:00, 24.44s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:22<00:00, 22.35s/it]100%|██████████| 1/1 [00:22<00:00, 22.37s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:02<02:04, 62.11s/it]100%|██████████| 3/3 [01:15<00:00, 21.00s/it]100%|██████████| 3/3 [01:15<00:00, 25.12s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:25<00:00, 25.30s/it]100%|██████████| 1/1 [00:25<00:00, 25.32s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:01<02:03, 61.73s/it]100%|██████████| 3/3 [01:15<00:00, 21.10s/it]100%|██████████| 3/3 [01:15<00:00, 25.17s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:21<00:00, 21.29s/it]100%|██████████| 1/1 [00:21<00:00, 21.31s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:05<02:10, 65.48s/it] 67%|██████▋   | 2/3 [01:05<00:27, 27.02s/it]100%|██████████| 3/3 [01:20<00:00, 21.44s/it]100%|██████████| 3/3 [01:20<00:00, 26.80s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:23<00:00, 23.13s/it]100%|██████████| 1/1 [00:23<00:00, 23.15s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [01:02<02:05, 62.84s/it] 67%|██████▋   | 2/3 [01:05<00:27, 27.26s/it]100%|██████████| 3/3 [01:18<00:00, 20.75s/it]100%|██████████| 3/3 [01:18<00:00, 26.08s/it]
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:20<00:00, 20.86s/it]100%|██████████| 1/1 [00:20<00:00, 20.88s/it]
+  0%|          | 0/3 [00:00<?, ?it/s] 33%|███▎      | 1/3 [00:11<00:22, 11.15s/it]100%|██████████| 3/3 [00:13<00:00,  3.93s/it]100%|██████████| 3/3 [00:13<00:00,  4.65s/it]
