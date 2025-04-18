@@ -1,0 +1,6 @@
+framework module Pods_ProduceClassifier {
+  umbrella header "Pods-ProduceClassifier-umbrella.h"
+
+  export *
+  module * { export * }
+}
