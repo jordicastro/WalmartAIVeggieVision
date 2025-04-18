@@ -22,6 +22,7 @@ This project aims at developing a computer vision-based object classifier placed
 
 ## Usage
 [How to use the system]
+Link for produce classification dataset: https://drive.google.com/file/d/12Xnq-YARLgb70r1ttEwLKW23GJR2Ulck/view?usp=sharing
 
 ## Project Structure
 [Explanation of folders and files]
