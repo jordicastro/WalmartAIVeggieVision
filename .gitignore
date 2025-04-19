@@ -1,0 +1,11 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserdatad/
+*.xcuserstate
+*.xcworkspace
+.DS_Store
+
+# CocoaPods (we’ll track Podfile & Podfile.lock, but not the Pods folder)
+Pods/
+
