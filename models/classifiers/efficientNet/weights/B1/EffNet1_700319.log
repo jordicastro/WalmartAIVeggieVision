@@ -1,0 +1,165 @@
+Starting EfficientNet training job on c2106 ...
+Job started at: Fri 18 Apr 23:36:26 CDT 2025
+Using device: cuda
+Found 1667 training images, 16 classes
+Found 152 test images,    16 classes
+Saved sample batch to saved_images/batch_train_images.png
+Epoch 0/29
+----------
+train Loss: 2.2949 Acc: 0.4762
+val Loss: 1.4834 Acc: 0.7738
+
+Epoch 1/29
+----------
+train Loss: 1.2292 Acc: 0.8662
+val Loss: 1.0658 Acc: 0.8610
+
+Epoch 2/29
+----------
+train Loss: 1.0514 Acc: 0.8962
+val Loss: 1.0667 Acc: 0.8910
+
+Epoch 3/29
+----------
+train Loss: 1.0294 Acc: 0.9146
+val Loss: 0.9611 Acc: 0.9319
+
+Epoch 4/29
+----------
+train Loss: 0.9411 Acc: 0.9446
+val Loss: 0.9210 Acc: 0.9482
+
+Epoch 5/29
+----------
+train Loss: 0.8861 Acc: 0.9569
+val Loss: 0.9083 Acc: 0.9292
+
+Epoch 6/29
+----------
+train Loss: 0.8779 Acc: 0.9485
+val Loss: 0.8678 Acc: 0.9455
+
+Epoch 7/29
+----------
+train Loss: 0.8659 Acc: 0.9546
+val Loss: 0.8771 Acc: 0.9319
+
+Epoch 8/29
+----------
+train Loss: 0.8460 Acc: 0.9623
+val Loss: 0.8553 Acc: 0.9591
+
+Epoch 9/29
+----------
+train Loss: 0.8290 Acc: 0.9677
+val Loss: 0.8648 Acc: 0.9401
+
+Epoch 10/29
+----------
+train Loss: 0.8253 Acc: 0.9623
+val Loss: 0.8322 Acc: 0.9564
+
+Epoch 11/29
+----------
+train Loss: 0.8123 Acc: 0.9754
+val Loss: 0.8475 Acc: 0.9591
+
+Epoch 12/29
+----------
+train Loss: 0.8026 Acc: 0.9738
+val Loss: 0.8317 Acc: 0.9537
+
+Epoch 13/29
+----------
+train Loss: 0.8038 Acc: 0.9738
+val Loss: 0.8332 Acc: 0.9537
+
+Epoch 14/29
+----------
+train Loss: 0.7905 Acc: 0.9785
+val Loss: 0.8079 Acc: 0.9782
+
+Epoch 15/29
+----------
+train Loss: 0.7965 Acc: 0.9754
+val Loss: 0.8326 Acc: 0.9646
+
+Epoch 16/29
+----------
+train Loss: 0.7833 Acc: 0.9785
+val Loss: 0.8629 Acc: 0.9346
+
+Epoch 17/29
+----------
+train Loss: 0.7825 Acc: 0.9792
+val Loss: 0.8111 Acc: 0.9809
+
+Epoch 18/29
+----------
+train Loss: 0.7815 Acc: 0.9831
+val Loss: 0.8039 Acc: 0.9728
+
+Epoch 19/29
+----------
+train Loss: 0.7869 Acc: 0.9792
+val Loss: 0.8108 Acc: 0.9755
+
+Epoch 20/29
+----------
+train Loss: 0.7889 Acc: 0.9746
+val Loss: 0.8045 Acc: 0.9728
+
+Epoch 21/29
+----------
+train Loss: 0.8042 Acc: 0.9715
+val Loss: 0.8209 Acc: 0.9537
+
+Epoch 22/29
+----------
+train Loss: 0.7694 Acc: 0.9823
+val Loss: 0.7941 Acc: 0.9728
+
+Epoch 23/29
+----------
+train Loss: 0.7651 Acc: 0.9854
+val Loss: 0.8174 Acc: 0.9755
+
+Epoch 24/29
+----------
+train Loss: 0.7703 Acc: 0.9792
+val Loss: 0.8229 Acc: 0.9564
+
+Epoch 25/29
+----------
+train Loss: 0.7608 Acc: 0.9862
+val Loss: 0.8036 Acc: 0.9700
+
+Epoch 26/29
+----------
+train Loss: 0.7647 Acc: 0.9823
+val Loss: 0.8188 Acc: 0.9646
+
+Epoch 27/29
+----------
+train Loss: 0.7691 Acc: 0.9808
+val Loss: 0.8034 Acc: 0.9673
+
+Epoch 28/29
+----------
+train Loss: 0.7705 Acc: 0.9769
+val Loss: 0.8045 Acc: 0.9809
+
+Epoch 29/29
+----------
+train Loss: 0.7751 Acc: 0.9815
+val Loss: 0.8112 Acc: 0.9700
+
+Training complete in 105m 3s
+Best val Acc: 0.9809
+Running on test set...
+Test Loss: 0.753978
+
+Overall Test Accuracy: 98.03%
+
+Saved traced model to produce-dataset-efficientnet_b1.zip
+EfficientNet training job finished at: Sat 19 Apr 01:23:24 CDT 2025

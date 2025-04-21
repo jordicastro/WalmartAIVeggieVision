@@ -1,0 +1,181 @@
+Starting EfficientNet training job on c2005 ...
+Job started at: Fri 18 Apr 09:33:53 CDT 2025
+Using device: cuda
+Found 1667 training images, 16 classes
+Found 152 test images,    16 classes
+Saved sample batch to saved_images/batch_train_images.png
+Epoch 0/29
+----------
+train Loss: 2.3550 Acc: 0.4508
+val Loss: 1.4503 Acc: 0.7493
+
+Epoch 1/29
+----------
+train Loss: 1.3572 Acc: 0.8285
+val Loss: 1.0616 Acc: 0.9264
+
+Epoch 2/29
+----------
+train Loss: 1.0696 Acc: 0.8862
+val Loss: 1.1120 Acc: 0.9046
+
+Epoch 3/29
+----------
+train Loss: 1.0019 Acc: 0.9254
+val Loss: 1.0062 Acc: 0.9564
+
+Epoch 4/29
+----------
+train Loss: 0.9652 Acc: 0.9462
+val Loss: 0.9551 Acc: 0.9619
+
+Epoch 5/29
+----------
+train Loss: 0.9022 Acc: 0.9569
+val Loss: 0.9226 Acc: 0.9373
+
+Epoch 6/29
+----------
+train Loss: 0.8926 Acc: 0.9500
+val Loss: 0.8953 Acc: 0.9510
+
+Epoch 7/29
+----------
+train Loss: 0.8528 Acc: 0.9692
+val Loss: 0.8798 Acc: 0.9401
+
+Epoch 8/29
+----------
+train Loss: 0.8354 Acc: 0.9708
+val Loss: 0.8327 Acc: 0.9700
+
+Epoch 9/29
+----------
+train Loss: 0.8333 Acc: 0.9723
+val Loss: 0.8606 Acc: 0.9482
+
+Epoch 10/29
+----------
+train Loss: 0.8198 Acc: 0.9777
+val Loss: 0.8540 Acc: 0.9619
+
+Epoch 11/29
+----------
+train Loss: 0.8238 Acc: 0.9700
+val Loss: 0.8526 Acc: 0.9482
+
+Epoch 12/29
+----------
+train Loss: 0.8201 Acc: 0.9723
+val Loss: 0.8464 Acc: 0.9646
+
+Epoch 13/29
+----------
+train Loss: 0.8079 Acc: 0.9738
+val Loss: 0.8623 Acc: 0.9591
+
+Epoch 14/29
+----------
+train Loss: 0.7987 Acc: 0.9746
+val Loss: 0.8450 Acc: 0.9591
+
+Epoch 15/29
+----------
+train Loss: 0.7941 Acc: 0.9762
+val Loss: 0.8386 Acc: 0.9619
+
+Epoch 16/29
+----------
+train Loss: 0.7961 Acc: 0.9777
+val Loss: 0.8672 Acc: 0.9537
+
+Epoch 17/29
+----------
+train Loss: 0.7988 Acc: 0.9777
+val Loss: 0.8435 Acc: 0.9755
+
+Epoch 18/29
+----------
+train Loss: 0.7802 Acc: 0.9800
+val Loss: 0.8396 Acc: 0.9591
+
+Epoch 19/29
+----------
+train Loss: 0.7802 Acc: 0.9769
+val Loss: 0.8015 Acc: 0.9864
+
+Epoch 20/29
+----------
+train Loss: 0.7804 Acc: 0.9862
+val Loss: 0.8254 Acc: 0.9673
+
+Epoch 21/29
+----------
+train Loss: 0.7802 Acc: 0.9862
+val Loss: 0.8484 Acc: 0.9455
+
+Epoch 22/29
+----------
+train Loss: 0.7839 Acc: 0.9815
+val Loss: 0.8291 Acc: 0.9673
+
+Epoch 23/29
+----------
+train Loss: 0.7773 Acc: 0.9792
+val Loss: 0.8459 Acc: 0.9510
+
+Epoch 24/29
+----------
+train Loss: 0.7743 Acc: 0.9838
+val Loss: 0.8316 Acc: 0.9673
+
+Epoch 25/29
+----------
+train Loss: 0.7773 Acc: 0.9846
+val Loss: 0.8335 Acc: 0.9619
+
+Epoch 26/29
+----------
+train Loss: 0.7625 Acc: 0.9862
+val Loss: 0.7925 Acc: 0.9755
+
+Epoch 27/29
+----------
+train Loss: 0.7728 Acc: 0.9831
+val Loss: 0.8258 Acc: 0.9564
+
+Epoch 28/29
+----------
+train Loss: 0.7622 Acc: 0.9854
+val Loss: 0.8166 Acc: 0.9646
+
+Epoch 29/29
+----------
+train Loss: 0.7580 Acc: 0.9846
+val Loss: 0.8066 Acc: 0.9700
+
+Training complete in 105m 25s
+Best val Acc: 0.9864
+Running on test set...
+Test Loss: 0.749809
+Accuracy of bagged_banana: 90.00% (9/10)
+Accuracy of bagged_broccoli: 100.00% (10/10)
+Accuracy of bagged_fiji_apple: 100.00% (10/10)
+Accuracy of bagged_granny_apple: 100.00% (10/10)
+Accuracy of bagged_jalapeno: 100.00% (10/10)
+Accuracy of bagged_orange_bell_pepper: 100.00% (10/10)
+Accuracy of bagged_red_bell_pepper: 100.00% (10/10)
+Accuracy of bagged_roma_tomato: 100.00% (6/6)
+Accuracy of banana    : 100.00% (10/10)
+Accuracy of broccoli  : 100.00% (10/10)
+Accuracy of fiji_apple: 100.00% (10/10)
+Accuracy of granny_apple: 100.00% (10/10)
+Accuracy of jalapeno  : 100.00% (10/10)
+Accuracy of orange_bell_pepper: 100.00% (10/10)
+Accuracy of red_bell_pepper: 100.00% (10/10)
+Accuracy of roma_tomato: 100.00% (6/6)
+
+Overall Test Accuracy: 99.34%
+
+Saved traced model to full-produce-dataset-efficientnet-b0.zip
+EfficientNet training job finished at: Fri 18 Apr 11:20:52 CDT 2025
