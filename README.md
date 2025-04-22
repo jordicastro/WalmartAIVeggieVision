@@ -1,7 +1,7 @@
 # Smart Produce Recogniton System
 
 ## Project Overview
-This project aims at developing a computer vision-based object classifier placed in view of the checkout register. It will identify produce items—such as red onion, yellow onion, Fiji apple, eggplant, etc.—with a quantifiable level of confidence, reducing the time customers spend searching for items at checkout and thereby streamlining the process.
+This project aims at developing a computer vision-based object classifier placed in view of the checkout register. It will identify produce items—such as red bell pepper, orange bell pepper, Fiji apple, jalapenos, etc.—with a quantifiable level of confidence, reducing the time customers spend searching for items at checkout and thereby streamlining the process.
 
 ## Setup
 [Installation instructions]
